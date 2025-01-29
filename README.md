@@ -1,6 +1,6 @@
 # Fork to fix the dependecies conflicts
 
-I suggest using [uv](https://github.com/astral-sh/uv) as python package manager. The requirements.txt to avoid dependecies is the following, using python 3.10.12:
+I suggest using [uv](https://github.com/astral-sh/uv) as python package manager. The requirements.txt to avoid conflicts is the following, using python 3.10.12:
 
 | Package                 | Version     |
 |-------------------------|-------------|
